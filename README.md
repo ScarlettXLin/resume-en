@@ -4,7 +4,7 @@ Hit branch [zh_CN](https://github.com/billryan/resume/tree/zh_CN) if you want a 
 
 中文用户请前往 [zh_CN](https://github.com/billryan/resume/tree/zh_CN) 分支。
 
-An elegant \LaTeX\ résumé template, compiled with \XeLaTeX. Inspired by 
+An elegant \LaTeX\ résumé template, compiled with \XeLaTeX. Inspired by 小肥仔
 
 - [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv)
 - [res](https://www.ctan.org/pkg/res)
